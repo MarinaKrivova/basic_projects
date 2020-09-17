@@ -1,0 +1,6 @@
+AirQualityUCI.zip
+AirQualityUCI.csv
+AirQualityUCI.xlsx
+.ipynb_checkpoints/
+.DS_Store
+Document_Retrieval/__pycache__/
